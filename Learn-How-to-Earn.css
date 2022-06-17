@@ -1,0 +1,23 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 551px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 75px auto 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 20px auto 0 20px;
+}
+
+.u-section-1 .u-text-3 {
+  width: 395px;
+  margin: 63px auto 41px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-3 {
+    width: 340px;
+  }
+}
